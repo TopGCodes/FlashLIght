@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <style name="circle_shape">
+    <item name="cornerSize">17%</item>>
+    </style>
+    <style name="btnshape">
+        <item name="cornerSize">57%</item>
+    </style>
+</resources>
